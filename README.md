@@ -1,6 +1,6 @@
 👋 I'm Victor Nxumalo*<br/>
 Full-Stack Developer | IT Solutions Enthusiast<br/>  
-🌍 Based in Gauteng, South Africa | 📧 **xolanivictor02@gmail.com<br/>  
+🌍 Based in Gauteng, South Africa | 📧 xolanivictor02@gmail.com<br/>  
 Follow Me On Instagram: [https://www.instagram.com/._nigganigga._?igsh=MTF3cXBpenZzYndrdw==]<br/>
 
 🎓Education
