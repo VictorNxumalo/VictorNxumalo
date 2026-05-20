@@ -1,35 +1,113 @@
-👋 I'm Victor Nxumalo*<br/>
-Full-Stack Developer | IT Solutions Enthusiast<br/>  
-🌍 Based in Gauteng, South Africa | 📧 xolanivictor02@gmail.com<br/>  
-Follow Me On Instagram: [https://www.instagram.com/._nigganigga._?igsh=MTF3cXBpenZzYndrdw==]<br/>
+<!-- Profile Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Nxumalo&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Junior%20Application%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58" width="100%" />
 
-🎓Education
-BCom Information Systems | University of Johannesburg (`2022–2024`)  
-- Distinctions: Information Systems Management, Entrepreneurship  
-- Awards: Personal Development Programme (Leadership & Communication)  
+<h3 align="center">Hi 👋, I'm Victor Nxumalo</h3>
+<p align="center">
+  Junior Application Developer • Web, API & Database Development <br/>
+  Gauteng, South Africa • <a href="mailto:xolanivictor02@gmail.com">xolanivictor02@gmail.com</a>
+</p>
 
-💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VictorNxumalo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VictorNxumalo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNxumalo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/VictorNxumalo">GitHub</a> •
+  <a href="https://www.linkedin.com/in/victornxumalo">LinkedIn</a> •
+  <a href="https://www.instagram.com/._nigganigga._?igsh=MTF3cXBpenZzYndrdw==">Instagram</a> •
+  <a href="https://victornxumalo.github.io/VictorNxumaloPortfolio/">Portfolio</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VictorNxumalo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Featured Projects<br/>  
-(🔗Portfolio Website)[https://victornxumalo.github.io/VictorNxumaloPortfolio/]  
-- Built with `HTML`, `Bootstrap`, and custom CSS. Features dynamic animations (AOS), Lottie visuals, and responsive design.  
+## 👨‍💻 About Me
+BCom Information Systems graduate with hands-on experience building production-oriented web apps, APIs, and database-backed systems through my NC IT learnership at **Sun International** and personal full-stack projects.
 
-📜 Certifications  
-- Responsive Web Design | freeCodeCamp (`Feb 2025`)  
-- Python Mastery (Beginner to Advanced) | Udemy (`Nov 2024`)  
-- Artificial Intelligence in the 4IR | University of Johannesburg (`Jan 2025`)
-- Starting Python Programming | Alison (`Jan 2024`)
-- Information Systems & Business Processes | Alison  (`Jan 2024`)
+- Currently: **IT Learner (NC IT - NQF Level 4)** at Sun International
+- Focus: **Node.js, Express, React/Next.js, SQL, Supabase, Redis**
+- Building toward: **C#, .NET Core, MAUI** on the Microsoft stack
+- Strengths: API design, authentication, RBAC, testing/debugging, CI/CD
 
-📫 Let’s Connect!
-((LinkedIn)[www.linkedin.com/in/victornxumalo])
-  
-🌟 *Building solutions that bridge creativity and functionality.*  
+---
+
+## 🛠️ Tech Stack (Animated)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Next.js;Node.js+%7C+Express+%7C+REST+APIs+%7C+Auth+%7C+Validation;SQL+Server+%7C+MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Redis;Power+Apps+%7C+Power+Automate+%7C+SharePoint+Integration;Git+%7C+GitHub+Actions+%7C+CI%2FCD+%7C+Agile%2FScrum" alt="Typing Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,cs,python,mysql,postgres,mongodb,redis,bootstrap,tailwind,git,github,vscode&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl4cnJpcjA4aW9vNnRtMW0waW84NHBvM3M5OG44YXQ2eGx4M2F2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGI8GoTL7N4DsyI/giphy.gif" width="420" alt="Coding animation" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1) [warzone.gg](https://github.com/VictorNxumalo/warzone.gg)
+Full-stack tournament platform with secure auth and competitive engines.
+
+- Monorepo with frontend + Express REST API
+- Supabase (PostgreSQL), caching, rate limiting, security headers
+- Input validation and CI via GitHub Actions
+
+### 2) La Voga - Restaurant Management Web App
+Operations + reservations platform for multi-branch workflows.
+
+- Next.js / React + Supabase (PostgreSQL)
+- Role-based access, contact inbox, staff-focused workflows
+- TypeScript, migrations, unit tests (Vitest), deployment-ready structure
+
+### 3) Portfolio Website
+🔗 [victornxumalo.github.io/VictorNxumaloPortfolio](https://victornxumalo.github.io/VictorNxumaloPortfolio/)
+
+- Built with HTML, Bootstrap, custom CSS
+- Responsive design, AOS animations, Lottie visuals
+
+---
+
+## 💼 Professional Experience
+**IT Learner (NC IT - NQF Level 4) - Sun International**  
+*June 2025 - Present | Johannesburg, South Africa*
+
+- Built full-stack solutions (Node.js, SQL Server, Redis, SMTP) for QR and OTP automation
+- Developed integration APIs between Adobe Experience Manager and Umbraco
+- Delivered enterprise Power Apps with RBAC + SharePoint + Power Automate workflows
+- Performed debugging, QA testing, user support, and release documentation
+
+---
+
+## 🎓 Education
+**BCom Information Systems** - University of Johannesburg *(2022-2024)*  
+- Distinctions: Information Systems Management, Entrepreneurship  
+- Average: 65%
+
+**NC IT Learnership (NQF Level 4)** - Sun International *(In Progress)*
+
+---
+
+## 📜 Certifications
+- Back End Development & APIs - freeCodeCamp *(In Progress)*
+- Responsive Web Design - freeCodeCamp
+- Python Mastery (Beginner to Advanced) - Udemy
+- Artificial Intelligence in the 4IR - University of Johannesburg
+- Information Systems & Business Processes - Alison
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorNxumalo&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=VictorNxumalo&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNxumalo&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=VictorNxumalo&icon=5&color=12" />
+</p>
+
+<h3 align="center">🌟 Building solutions that bridge creativity and functionality.</h3>
