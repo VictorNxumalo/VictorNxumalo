@@ -1,113 +1,159 @@
-<!-- Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Victor%20Nxumalo&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&desc=Junior%20Application%20Developer%20%7C%20Full-Stack%20Builder&descAlignY=58" width="100%" />
+<!-- =========================
+     PREMIUM GITHUB PROFILE
+     Author: Victor Nxumalo
+========================= -->
 
-<h3 align="center">Hi 👋, I'm Victor Nxumalo</h3>
-<p align="center">
-  Junior Application Developer • Web, API & Database Development <br/>
-  Gauteng, South Africa • <a href="mailto:xolanivictor02@gmail.com">xolanivictor02@gmail.com</a>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,25:203a43,50:2c5364,75:1f6feb,100:00c6ff&text=Victor%20Nxumalo&fontSize=54&fontAlignY=38&fontColor=ffffff&desc=Junior%20Application%20Developer%20%7C%20Full-Stack%20Engineer%20in%20the%20Making&descAlignY=58&animation=fadeIn"/>
+</div>
 
-<p align="center">
-  <a href="https://github.com/VictorNxumalo">GitHub</a> •
-  <a href="https://www.linkedin.com/in/victornxumalo">LinkedIn</a> •
-  <a href="https://www.instagram.com/._nigganigga._?igsh=MTF3cXBpenZzYndrdw==">Instagram</a> •
-  <a href="https://victornxumalo.github.io/VictorNxumaloPortfolio/">Portfolio</a>
-</p>
+<div align="center">
+  <a href="mailto:xolanivictor02@gmail.com"><img src="https://img.shields.io/badge/Email-xolanivictor02%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/victornxumalo"><img src="https://img.shields.io/badge/LinkedIn-Victor%20Nxumalo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/VictorNxumalo"><img src="https://img.shields.io/badge/GitHub-VictorNxumalo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://victornxumalo.github.io/VictorNxumaloPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</div>
 
----
-
-## 👨‍💻 About Me
-BCom Information Systems graduate with hands-on experience building production-oriented web apps, APIs, and database-backed systems through my NC IT learnership at **Sun International** and personal full-stack projects.
-
-- Currently: **IT Learner (NC IT - NQF Level 4)** at Sun International
-- Focus: **Node.js, Express, React/Next.js, SQL, Supabase, Redis**
-- Building toward: **C#, .NET Core, MAUI** on the Microsoft stack
-- Strengths: API design, authentication, RBAC, testing/debugging, CI/CD
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictorNxumalo&style=for-the-badge&color=0e75b6" alt="profile views"/>
+</div>
 
 ---
 
-## 🛠️ Tech Stack (Animated)
+## 👋 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Next.js;Node.js+%7C+Express+%7C+REST+APIs+%7C+Auth+%7C+Validation;SQL+Server+%7C+MySQL+%7C+PostgreSQL+%7C+MongoDB+%7C+Redis;Power+Apps+%7C+Power+Automate+%7C+SharePoint+Integration;Git+%7C+GitHub+Actions+%7C+CI%2FCD+%7C+Agile%2FScrum" alt="Typing Tech Stack" />
-</p>
+I’m **Victor Nxumalo**, a Junior Application Developer based in **Gauteng, South Africa**.  
+I build practical software that connects **frontend experience**, **backend logic**, and **real database workflows**.
 
-<p align="center">
+- 🎓 BCom Information Systems graduate (**University of Johannesburg**)
+- 💼 IT Learner (NC IT - NQF Level 4) at **Sun International**
+- 🧠 Focus areas: full-stack web apps, API integrations, auth/security, and scalable data models
+- 🚀 Growing toward the **Microsoft stack**: C#, .NET Core, MAUI
+- 🤝 Open to junior software / application development roles
+
+---
+
+## ⚡ What I’m Building Right Now
+
+- Tournament and competition systems with secure auth + role management
+- API integrations between enterprise platforms (AEM ↔ Umbraco style workflows)
+- Real-world internal business tools (Power Apps + SharePoint + Automations)
+- Better testing, CI/CD, and release discipline in every project
+
+---
+
+## 🛠 Tech Stack (Animated + Visual)
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=1000&center=true&vCenter=true&width=1050&lines=Frontend%3A+HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Next.js+%7C+Bootstrap+%7C+Tailwind;Backend%3A+Node.js+%7C+Express+%7C+REST+API+Design+%7C+Authentication+%7C+Validation;Databases%3A+SQL+Server+%7C+MySQL+%7C+PostgreSQL+(Supabase)+%7C+MongoDB+%7C+Redis;Tools%3A+Git+%7C+GitHub+Actions+%7C+CI%2FCD+%7C+Agile%2FScrum+%7C+Debugging+%7C+Documentation" alt="typing stack"/>
+</div>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,cs,python,mysql,postgres,mongodb,redis,bootstrap,tailwind,git,github,vscode&perline=9" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl4cnJpcjA4aW9vNnRtMW0waW84NHBvM3M5OG44YXQ2eGx4M2F2cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGI8GoTL7N4DsyI/giphy.gif" width="420" alt="Coding animation" />
-</p>
+<div align="center">
+  <img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1) [warzone.gg](https://github.com/VictorNxumalo/warzone.gg)
-Full-stack tournament platform with secure auth and competitive engines.
+### 🔥 `warzone.gg` — Tournament Platform
+**Stack:** HTML/CSS/JS + Express + Supabase (PostgreSQL)  
+**Highlights:**
+- Authentication and account flows
+- Tournament engines + bracket structures
+- Rate limiting, security headers, input validation
+- CI pipelines with GitHub Actions
+- Performance-focused backend patterns
 
-- Monorepo with frontend + Express REST API
-- Supabase (PostgreSQL), caching, rate limiting, security headers
-- Input validation and CI via GitHub Actions
-
-### 2) La Voga - Restaurant Management Web App
-Operations + reservations platform for multi-branch workflows.
-
-- Next.js / React + Supabase (PostgreSQL)
-- Role-based access, contact inbox, staff-focused workflows
-- TypeScript, migrations, unit tests (Vitest), deployment-ready structure
-
-### 3) Portfolio Website
-🔗 [victornxumalo.github.io/VictorNxumaloPortfolio](https://victornxumalo.github.io/VictorNxumaloPortfolio/)
-
-- Built with HTML, Bootstrap, custom CSS
-- Responsive design, AOS animations, Lottie visuals
+🔗 Repo: [github.com/VictorNxumalo/warzone.gg](https://github.com/VictorNxumalo/warzone.gg)
 
 ---
 
-## 💼 Professional Experience
-**IT Learner (NC IT - NQF Level 4) - Sun International**  
-*June 2025 - Present | Johannesburg, South Africa*
+### 🍽️ `La Voga` — Restaurant Management App
+**Stack:** Next.js / React + Supabase + TypeScript  
+**Highlights:**
+- Multi-branch operational workflows
+- Role-based access and protected app areas
+- Reservation and customer contact workflows
+- Migrations + unit testing structure (Vitest-ready)
 
-- Built full-stack solutions (Node.js, SQL Server, Redis, SMTP) for QR and OTP automation
-- Developed integration APIs between Adobe Experience Manager and Umbraco
-- Delivered enterprise Power Apps with RBAC + SharePoint + Power Automate workflows
-- Performed debugging, QA testing, user support, and release documentation
+---
+
+### 🌐 `Portfolio Website`
+**Stack:** HTML + Bootstrap + Custom CSS + AOS/Lottie  
+**Highlights:**
+- Responsive personal brand website
+- Modern UI animations and interactive sections
+- Fast static deployment
+
+🔗 Live: [victornxumalo.github.io/VictorNxumaloPortfolio](https://victornxumalo.github.io/VictorNxumaloPortfolio/)
+
+---
+
+## 💼 Professional Experience Snapshot
+
+### Sun International — IT Learner (NC IT, NQF 4)
+**June 2025 – Present | Johannesburg**
+
+- Built full-stack internal solutions with Node.js + SQL Server + Redis + SMTP
+- Developed API bridges for content/platform sync workflows
+- Delivered Power Apps solutions with RBAC + SharePoint integration
+- Created automation flows for approvals/notifications (Power Automate)
+- Performed QA, debugging, release support, and technical documentation
 
 ---
 
 ## 🎓 Education
-**BCom Information Systems** - University of Johannesburg *(2022-2024)*  
-- Distinctions: Information Systems Management, Entrepreneurship  
-- Average: 65%
 
-**NC IT Learnership (NQF Level 4)** - Sun International *(In Progress)*
+- **BCom Information Systems** — University of Johannesburg (2022–2024)  
+  Distinctions in Information Systems Management and Entrepreneurship
+- **NC IT Learnership (NQF Level 4)** — Sun International (In Progress)
 
 ---
 
 ## 📜 Certifications
-- Back End Development & APIs - freeCodeCamp *(In Progress)*
-- Responsive Web Design - freeCodeCamp
-- Python Mastery (Beginner to Advanced) - Udemy
-- Artificial Intelligence in the 4IR - University of Johannesburg
-- Information Systems & Business Processes - Alison
+
+- Back End Development & APIs — freeCodeCamp *(In Progress)*
+- Responsive Web Design — freeCodeCamp
+- Python Mastery (Beginner to Advanced) — Udemy
+- Artificial Intelligence in the 4IR — University of Johannesburg
+- Information Systems & Business Processes — Alison
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorNxumalo&theme=tokyonight&hide_border=true&show_icons=true" height="170"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VictorNxumalo&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNxumalo&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
-</p>
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VictorNxumalo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorNxumalo&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorNxumalo&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VictorNxumalo&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=VictorNxumalo&icon=5&color=12" />
-</p>
+## 🤝 Let’s Connect
 
-<h3 align="center">🌟 Building solutions that bridge creativity and functionality.</h3>
+I’m passionate about building software that solves real business problems while staying clean, secure, and maintainable.
+
+- 📧 **Email:** [xolanivictor02@gmail.com](mailto:xolanivictor02@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/victornxumalo](https://www.linkedin.com/in/victornxumalo)
+- 🌍 **Location:** Gauteng, South Africa
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=VictorNxumalo&icon=8&color=12" />
+  <br/>
+  <strong>🌟 Building solutions that bridge creativity and functionality.</strong>
+</div>
