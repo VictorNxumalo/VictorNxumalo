@@ -22,19 +22,20 @@
 
 ## 👋 About Me
 
-I’m **Victor Nxumalo**, a Junior Application Developer based in **Gauteng, South Africa**.  
+I'm **Victor Nxumalo**, a Junior Application Developer based in **Gauteng, South Africa**.  
 I build practical software that connects **frontend experience**, **backend logic**, and **real database workflows**.
 
 - 🎓 BCom Information Systems graduate (**University of Johannesburg**)
 - 💼 IT Learner (NC IT - NQF Level 4) at **Sun International**
-- 🧠 Focus areas: full-stack web apps, API integrations, auth/security, and scalable data models
+- 🧠 Focus areas: multi-tenant SaaS, API-first backends, auth/security, fintech workflows, and scalable data models
 - 🚀 Growing toward the **Microsoft stack**: C#, .NET Core, MAUI
 - 🤝 Open to junior software / application development roles
 
 ---
 
-## ⚡ What I’m Building Right Now
+## ⚡ What I'm Building Right Now
 
+- **Loan Management System (LMS)** — multi-tenant lending SaaS with lender & borrower portals, NCA loan agreements, wallets, and sandbox → production CI/CD
 - Tournament and competition systems with secure auth + role management
 - API integrations between enterprise platforms (AEM ↔ Umbraco style workflows)
 - Real-world internal business tools (Power Apps + SharePoint + Automations)
@@ -45,11 +46,11 @@ I build practical software that connects **frontend experience**, **backend logi
 ## 🛠 Tech Stack (Animated + Visual)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=1000&center=true&vCenter=true&width=1050&lines=Frontend%3A+HTML5+%7C+CSS3+%7C+JavaScript+%7C+React+%7C+Next.js+%7C+Bootstrap+%7C+Tailwind;Backend%3A+Node.js+%7C+Express+%7C+REST+API+Design+%7C+Authentication+%7C+Validation;Databases%3A+SQL+Server+%7C+MySQL+%7C+PostgreSQL+(Supabase)+%7C+MongoDB+%7C+Redis;Tools%3A+Git+%7C+GitHub+Actions+%7C+CI%2FCD+%7C+Agile%2FScrum+%7C+Debugging+%7C+Documentation" alt="typing stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=1000&center=true&vCenter=true&width=1050&lines=Frontend%3A+HTML5+%7C+CSS3+%7C+JavaScript+%7C+TypeScript+%7C+React+%7C+Next.js+%7C+Tailwind;Backend%3A+Node.js+%7C+NestJS+%7C+Express+%7C+REST+APIs+%7C+JWT+Auth+%7C+Zod+Validation;Databases%3A+PostgreSQL+(Supabase)+%7C+Prisma+%7C+SQL+Server+%7C+MySQL+%7C+MongoDB+%7C+Redis;Tools%3A+Git+%7C+GitHub+Actions+%7C+CI%2FCD+%7C+Vercel+%7C+Render+%7C+Agile%2FScrum" alt="typing stack"/>
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,cs,python,mysql,postgres,mongodb,redis,bootstrap,tailwind,git,github,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,cs,python,mysql,postgres,prisma,mongodb,redis,bootstrap,tailwind,git,github,vscode,docker&perline=11" />
 </div>
 
 <div align="center">
@@ -59,6 +60,20 @@ I build practical software that connects **frontend experience**, **backend logi
 ---
 
 ## 🚀 Featured Projects
+
+### 🏦 `LMS` — Loan Management System (SaaS)
+**Stack:** Next.js 14 · NestJS 11 · TypeScript · Prisma · PostgreSQL (Supabase) · Redis/BullMQ · NextAuth  
+**Highlights:**
+- Dual-portal platform: **lender workspace** (CRM, applications, disbursements, reports) + **borrower portal** (marketplace, applications, repayments)
+- Multi-tenant architecture with **Postgres Row Level Security** and org-scoped data isolation
+- End-to-end loan lifecycle: origination, schedules, **NCA-compliant agreements**, sign-before-disburse, wallets
+- Notification pipeline (in-app, email, SMS), audit trail, and scheduled jobs (overdue/reminders)
+- Shared Zod contracts across frontend + API; Vitest integration tests; GitHub Actions CI
+- **Sandbox → production** deploy split (Vercel + Render + Supabase)
+
+🔗 Repo: [github.com/VictorNxumalo/Loan-Management-System-SaaS-](https://github.com/VictorNxumalo/Loan-Management-System-SaaS-)
+
+---
 
 ### 🔥 `warzone.gg` — Tournament Platform
 **Stack:** HTML/CSS/JS + Express + Supabase (PostgreSQL)  
@@ -99,6 +114,7 @@ I build practical software that connects **frontend experience**, **backend logi
 ### Sun International — IT Learner (NC IT, NQF 4)
 **June 2025 – Present | Johannesburg**
 
+- **Leading development of the LMS** — a multi-tenant loan platform (Next.js + NestJS + Prisma + Supabase) with lender/borrower portals, electronic loan agreements, and sandbox/production release pipelines
 - Built full-stack internal solutions with Node.js + SQL Server + Redis + SMTP
 - Developed API bridges for content/platform sync workflows
 - Delivered Power Apps solutions with RBAC + SharePoint integration
@@ -142,9 +158,9 @@ I build practical software that connects **frontend experience**, **backend logi
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-I’m passionate about building software that solves real business problems while staying clean, secure, and maintainable.
+I'm passionate about building software that solves real business problems while staying clean, secure, and maintainable.
 
 - 📧 **Email:** [xolanivictor02@gmail.com](mailto:xolanivictor02@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/victornxumalo](https://www.linkedin.com/in/victornxumalo)
