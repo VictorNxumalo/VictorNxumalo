@@ -1,0 +1,21 @@
+name: 3D Profile Contrib
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389062/github-profile-3d-contrib@1.2.5
+        with:
+          username: VictorNxumalo
+          output_dir: profile-3d-contrib
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update 3d contribution graph"
